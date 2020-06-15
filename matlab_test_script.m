@@ -1,4 +1,7 @@
 % I'm testing out Github / version control with matlab scripts!
 
-fprintf("Matlab... ");
-fprintf(">python?");
+fprintf("Matlab... \n ");
+fprintf(">python? \n");
+
+fprintf("Idk? \n"); 
+
